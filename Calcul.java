@@ -24,7 +24,7 @@ public class Calcul {
 			rembourses = 10*1.5 + 30*0.4 + 20*0.55 + ((distance/20)-3)*6.81;
 		}
         System.out.println("vous pouvez obtenir:"+rembourses+"Euros");
-        System.out.println("first time motifie the orginal file");
+       
 	}
 
 }
